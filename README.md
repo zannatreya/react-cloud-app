@@ -1,6 +1,6 @@
 # Getting Started with React Cloud App
 
-This project was bootstrapped with [React Cloud App](https://react-cloud-app-ce84eb.netlify.app/).
+This project was bootstrapped with [React Cloud App Live Site](https://react-cloud-app-ce84eb.netlify.app/).
 
 ## Available Scripts
 
