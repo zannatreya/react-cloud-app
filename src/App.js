@@ -1,5 +1,6 @@
 import About from './components/About.jsx';
 import AllInOne from './components/AllInOne.jsx';
+import CountUp from './components/CountUp.jsx';
 import Footer from './components/Footer.jsx';
 import Hero from './components/Hero.jsx';
 import Navbar from './components/Navbar.jsx'
@@ -12,6 +13,7 @@ function App() {
      <Navbar />
       <Hero />
       <About />
+      <CountUp/>
       <Support />
       <AllInOne />
       <Pricing />

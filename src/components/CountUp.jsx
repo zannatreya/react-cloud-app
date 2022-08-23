@@ -1,11 +1,11 @@
 import React from 'react'
 
-const About = () => {
+const CountUp = () => {
   return (
-    <div name='about' className='w-full my-32 '>
+<div name='about' className='w-full my-32 '>
         <div className='max-w-[1240px] mx-auto'>
             <div className='text-center'>
-                <h2 className='text-5xl font-bold'>Trusted by developers across the world</h2>
+                <h2 className='text-5xl font-bold'>Real People,Real Relationships.</h2>
                 <p className='py-6 text-3xl text-gray-500'>Lorem ipsum dolor sit amet consectetur
                  adipisicing elit. Aperiam dicta possimus esse fugiat libero quos doloremque natus quas deleniti quae.</p>
             </div>
@@ -29,8 +29,7 @@ const About = () => {
 
             </div>
         </div>
-    </div>
-  )
+    </div>  )
 }
 
-export default About
+export default CountUp
